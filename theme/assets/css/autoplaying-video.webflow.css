@@ -275,6 +275,7 @@ blockquote {
   text-align: center;
   font-family: Montserrat, sans-serif;
   font-size: 5em;
+  transform: translate(0, 88px);
 }
 
 @media screen and (max-width: 767px) {
